@@ -1,0 +1,27 @@
+Pruebas Funcionales - Lista de Tareas en Línea de Comandos
+
+1. Agregar Tarea:
+   Entrada: "Comprar leche", "Ir al supermercado y comprar leche"
+   Resultado esperado: Tarea aparece listada como no completada.
+
+2. Ver Tareas:
+   Entrada: Opción 1 del menú.
+   Resultado esperado: Se muestra la lista con todas las tareas existentes.
+
+3. Editar Tarea:
+   Entrada: Seleccionar tarea 1, cambiar título a "Comprar pan"
+   Resultado esperado: Se actualiza el título correctamente.
+
+4. Eliminar Tarea:
+   Entrada: Seleccionar tarea 1
+   Resultado esperado: La tarea desaparece de la lista.
+
+5. Marcar como Completada:
+   Entrada: Seleccionar tarea 1
+   Resultado esperado: Tarea aparece con ✔️ en la lista.
+
+6. Salir:
+   Entrada: Opción 6 del menú.
+   Resultado esperado: La aplicación se cierra.
+
+Todas las pruebas fueron realizadas exitosamente.
