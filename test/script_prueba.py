@@ -36,10 +36,6 @@ inputs = [
     # Mostrar tareas
     "1\n",
 
-
-    # Mostrar tareas
-    "1\n",
-
     # Marcar como hechas la 1 y la 3
     "5\n", "1\n",
     "5\n", "3\n",
