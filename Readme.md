@@ -73,12 +73,12 @@ Sigue el menú interactivo para gestionar tus tareas desde la terminal.
 Para validar que la aplicación funciona correctamente según el manual de pruebas, ejecuta:
 
 ```bash
-python test/script_pruebas.py
+python script_pruebas.py
 ```
 
 Esto simula las acciones descritas en `pruebas_funcionales.txt`.
 
-> Nota: Asegúrate de tener Python 3 instalado y configurado en tu entorno.
+> Nota: Asegúrate de tener Python 3 instalado y configurado en tu entorno, Ademas de que en la pruebas automaticas debemo pararnos en el directorio de test para ejecutarla.
 
 ---
 
